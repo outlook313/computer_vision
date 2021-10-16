@@ -6,7 +6,7 @@ image_processing,CV2<br>
 Basic Image Processing Algorithms:
 
 In order for a computer to understand an image, the image has to be processed first. There are many algorithms that can be used to process images and the output depends on the task at hand.
-Some of the most basic algorithms are:
-• Thresholding
-• Morphological transformations
-• Blurring
+Some of the most basic algorithms are:<br>
+• Thresholding<br>
+• Morphological transformations<br>
+• Blurring<br>
