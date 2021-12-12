@@ -10,7 +10,7 @@ Some of the most basic algorithms are:<br>
 • Thresholding<br>
 • Morphological transformations<br>
 • Blurring<br>
-
+..
 
 
 
